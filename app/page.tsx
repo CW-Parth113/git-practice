@@ -4,6 +4,7 @@ const Home = () => {
   return (
     <div>
       <h1>Web Home Page</h1>
+      <footer>footer</footer>
     </div>
   );
 };
