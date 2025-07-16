@@ -6,6 +6,7 @@ const ProductCard = () => {
       <h1>ProductCard Add</h1>
       <p>product card styling</p>
       <p>add animation</p>
+      <p>add cart context</p>
     </div>
   );
 };
